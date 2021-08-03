@@ -1,0 +1,10 @@
+import turtle as t
+t.color('red','blue')
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.home()
+t.mainloop()
